@@ -316,11 +316,11 @@ python main.py
 
 # 👨‍💻 Author
 
-**Aman Kumar**
+**Vedant Salvi**
 
-GitHub: https://github.com/Aman-Kumar2002
+GitHub: https://github.com/SalviVedant-2020
 
-LinkedIn: https://www.linkedin.com/in/mraman-kumar
+LinkedIn: https://www.linkedin.com/in/vedant-salvi-vs
 
 ---
 
