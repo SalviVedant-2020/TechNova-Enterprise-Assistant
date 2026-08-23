@@ -1,0 +1,90 @@
+# ==========================
+# Python
+# ==========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================
+# Virtual Environment
+# ==========================
+
+venv/
+.venv/
+env/
+ENV/
+
+# ==========================
+# Environment Variables
+# ==========================
+
+.env
+.env.*
+
+# Keep the example file
+!.env.example
+
+# ==========================
+# IDE
+# ==========================
+
+.vscode/
+.idea/
+
+# ==========================
+# OS Files
+# ==========================
+
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Python Tool Caches
+# ==========================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+
+# ==========================
+# Coverage
+# ==========================
+
+.coverage
+.coverage.*
+htmlcov/
+
+# ==========================
+# Jupyter
+# ==========================
+
+.ipynb_checkpoints/
+
+# ==========================
+# Logs
+# ==========================
+
+*.log
+
+# ==========================
+# Streamlit Secrets
+# ==========================
+
+.streamlit/secrets.toml
+
+# ==========================
+# Temporary Files
+# ==========================
+
+*.tmp
+*.temp
+
+# ==========================
+# SQLite Temporary Files
+# ==========================
+
+*.db-journal
+*.sqlite-journal
